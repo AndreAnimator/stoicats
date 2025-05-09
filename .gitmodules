@@ -1,0 +1,6 @@
+[submodule "app/Stoicats"]
+	path = app/Stoicats
+	url = https://github.com/LorenzoPilati/Stoicats.git
+[submodule "bots/stoicats-bsky"]
+	path = bots/stoicats-bsky
+	url = https://github.com/AndreAnimator/stoicats-bsky.git
