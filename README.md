@@ -23,5 +23,13 @@ Work in progress.
 
 # App
 
+Here's an example of the app runing on desktop:
+
+![desktop-app](images/desktop_screenshot.png)
+
+Here's an example of the app runing on mobile:
+
+![mobile-app](images/mobile_screenshot.png)
+
 It was made using `Ionic`and `Angular`.
 For more information, refer to its [repository](https://github.com/LorenzoPilati/Stoicats.git).
